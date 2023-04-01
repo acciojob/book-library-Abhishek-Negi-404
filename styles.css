@@ -5,6 +5,9 @@ body{
 .book-library{
 	background-color: #ffffff;
 }
+.book{
+	background-color: #F0F1F1;
+}
 .author{
 	color: #777777;
 }
